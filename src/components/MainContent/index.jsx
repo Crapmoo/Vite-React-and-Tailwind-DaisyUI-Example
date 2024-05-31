@@ -9,7 +9,7 @@ export default function MainContent() {
             <h1 className="text-5xl font-bold">ยินดีต้อนรับสู่ English For Fun</h1>
             <p className="py-6">เว็บไซต์ English For Fun เป็น Website ที่ใช้สำหรับเรียนรู้ภาษา เพื่อพัฒนา English Skill ให้มากยิ่งขึ้น โดยฝึกฝนผ่านวิดิโอ ที่จัดทำขึ้นโดยผู้เชี่ยวชาญ และทำบททดสอบ
               หลังจากดูคลิปวิดิโอเสร็จ  </p>
-            <button className="btn btn-primary">เริ่มเลย</button>
+            <a href="https://www.instagram.com/ohm_sryp/"><button className="btn btn-primary" >เริ่มเลย</button></a>
           </div>
         </div>
       </div>
